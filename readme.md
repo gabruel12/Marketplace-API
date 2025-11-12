@@ -1,0 +1,2 @@
+# Importante
+API feito na correria só pra testar alguns métodos e criar algumas funções, fui lendo a documentação e nem sei ao certo se fiz correto do jeito esperado, código totalmente go horse, feito pra ficar pronto logo, várias coisas a incrementar e ainda nem tem commits salvos certos! Mal sei se usei o alembic nesse projeto, senha sem hash e tabelas criadas sem base sem public sem nada do que normalmente seria o ideal, repositório apenas para estudo.
